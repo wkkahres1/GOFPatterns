@@ -1,0 +1,7 @@
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_Intermediate_C_Part1\Exercise Files\Mediator_WK\bin\Debug\Mediator_WK.exe.config
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_Intermediate_C_Part1\Exercise Files\Mediator_WK\bin\Debug\Mediator_WK.exe
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_Intermediate_C_Part1\Exercise Files\Mediator_WK\bin\Debug\Mediator_WK.pdb
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_Intermediate_C_Part1\Exercise Files\Mediator_WK\obj\Debug\Mediator_WK.csprojAssemblyReference.cache
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_Intermediate_C_Part1\Exercise Files\Mediator_WK\obj\Debug\Mediator_WK.csproj.CoreCompileInputs.cache
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_Intermediate_C_Part1\Exercise Files\Mediator_WK\obj\Debug\Mediator_WK.exe
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_Intermediate_C_Part1\Exercise Files\Mediator_WK\obj\Debug\Mediator_WK.pdb

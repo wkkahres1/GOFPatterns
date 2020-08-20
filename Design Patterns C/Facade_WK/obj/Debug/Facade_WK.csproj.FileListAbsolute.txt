@@ -1,0 +1,7 @@
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Design Patterns C\Facade_WK\bin\Debug\Facade_WK.exe.config
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Design Patterns C\Facade_WK\bin\Debug\Facade_WK.exe
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Design Patterns C\Facade_WK\bin\Debug\Facade_WK.pdb
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Design Patterns C\Facade_WK\obj\Debug\Facade_WK.csprojAssemblyReference.cache
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Design Patterns C\Facade_WK\obj\Debug\Facade_WK.csproj.CoreCompileInputs.cache
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Design Patterns C\Facade_WK\obj\Debug\Facade_WK.exe
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Design Patterns C\Facade_WK\obj\Debug\Facade_WK.pdb

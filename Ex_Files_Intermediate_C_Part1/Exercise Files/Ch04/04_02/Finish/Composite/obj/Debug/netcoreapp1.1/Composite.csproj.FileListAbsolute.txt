@@ -1,0 +1,20 @@
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\Begin\Composite\bin\Debug\netcoreapp1.1\Composite.deps.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\Begin\Composite\bin\Debug\netcoreapp1.1\Composite.runtimeconfig.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\Begin\Composite\bin\Debug\netcoreapp1.1\Composite.runtimeconfig.dev.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\Begin\Composite\bin\Debug\netcoreapp1.1\Composite.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\Begin\Composite\bin\Debug\netcoreapp1.1\Composite.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\Begin\Composite\obj\Debug\netcoreapp1.1\Composite.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\Begin\Composite\obj\Debug\netcoreapp1.1\Composite.AssemblyInfo.cs
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\Begin\Composite\obj\Debug\netcoreapp1.1\Composite.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\Begin\Composite\obj\Debug\netcoreapp1.1\Composite.pdb
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_Intermediate_C_Part1\Exercise Files\Ch04\04_02\Finish\Composite\bin\Debug\netcoreapp1.1\Composite.deps.json
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_Intermediate_C_Part1\Exercise Files\Ch04\04_02\Finish\Composite\bin\Debug\netcoreapp1.1\Composite.runtimeconfig.json
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_Intermediate_C_Part1\Exercise Files\Ch04\04_02\Finish\Composite\bin\Debug\netcoreapp1.1\Composite.runtimeconfig.dev.json
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_Intermediate_C_Part1\Exercise Files\Ch04\04_02\Finish\Composite\bin\Debug\netcoreapp1.1\Composite.dll
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_Intermediate_C_Part1\Exercise Files\Ch04\04_02\Finish\Composite\bin\Debug\netcoreapp1.1\Composite.pdb
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_Intermediate_C_Part1\Exercise Files\Ch04\04_02\Finish\Composite\obj\Debug\netcoreapp1.1\Composite.csprojAssemblyReference.cache
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_Intermediate_C_Part1\Exercise Files\Ch04\04_02\Finish\Composite\obj\Debug\netcoreapp1.1\Composite.csproj.CoreCompileInputs.cache
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_Intermediate_C_Part1\Exercise Files\Ch04\04_02\Finish\Composite\obj\Debug\netcoreapp1.1\Composite.AssemblyInfoInputs.cache
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_Intermediate_C_Part1\Exercise Files\Ch04\04_02\Finish\Composite\obj\Debug\netcoreapp1.1\Composite.AssemblyInfo.cs
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_Intermediate_C_Part1\Exercise Files\Ch04\04_02\Finish\Composite\obj\Debug\netcoreapp1.1\Composite.dll
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_Intermediate_C_Part1\Exercise Files\Ch04\04_02\Finish\Composite\obj\Debug\netcoreapp1.1\Composite.pdb

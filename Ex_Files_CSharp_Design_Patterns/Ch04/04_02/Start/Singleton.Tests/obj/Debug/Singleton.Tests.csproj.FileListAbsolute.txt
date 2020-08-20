@@ -1,0 +1,8 @@
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_CSharp_Design_Patterns\Ch04\04_02\Start\Singleton.Tests\bin\Debug\Singleton.Tests.dll
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_CSharp_Design_Patterns\Ch04\04_02\Start\Singleton.Tests\bin\Debug\Singleton.Tests.pdb
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_CSharp_Design_Patterns\Ch04\04_02\Start\Singleton.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_CSharp_Design_Patterns\Ch04\04_02\Start\Singleton.Tests\obj\Debug\Singleton.Tests.csprojAssemblyReference.cache
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_CSharp_Design_Patterns\Ch04\04_02\Start\Singleton.Tests\obj\Debug\Singleton.Tests.csproj.CoreCompileInputs.cache
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_CSharp_Design_Patterns\Ch04\04_02\Start\Singleton.Tests\obj\Debug\Singleton.Tests.csproj.CopyComplete
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_CSharp_Design_Patterns\Ch04\04_02\Start\Singleton.Tests\obj\Debug\Singleton.Tests.dll
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_CSharp_Design_Patterns\Ch04\04_02\Start\Singleton.Tests\obj\Debug\Singleton.Tests.pdb

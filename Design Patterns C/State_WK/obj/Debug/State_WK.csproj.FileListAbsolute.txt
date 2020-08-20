@@ -1,0 +1,7 @@
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Design Patterns C\State_WK\bin\Debug\State_WK.exe.config
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Design Patterns C\State_WK\bin\Debug\State_WK.exe
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Design Patterns C\State_WK\bin\Debug\State_WK.pdb
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Design Patterns C\State_WK\obj\Debug\State_WK.csprojAssemblyReference.cache
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Design Patterns C\State_WK\obj\Debug\State_WK.csproj.CoreCompileInputs.cache
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Design Patterns C\State_WK\obj\Debug\State_WK.exe
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Design Patterns C\State_WK\obj\Debug\State_WK.pdb

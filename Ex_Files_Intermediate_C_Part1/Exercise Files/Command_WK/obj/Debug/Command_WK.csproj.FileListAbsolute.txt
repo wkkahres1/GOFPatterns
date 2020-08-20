@@ -1,0 +1,7 @@
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_Intermediate_C_Part1\Exercise Files\Command_WK\bin\Debug\Command_WK.exe.config
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_Intermediate_C_Part1\Exercise Files\Command_WK\bin\Debug\Command_WK.exe
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_Intermediate_C_Part1\Exercise Files\Command_WK\bin\Debug\Command_WK.pdb
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_Intermediate_C_Part1\Exercise Files\Command_WK\obj\Debug\Command_WK.csprojAssemblyReference.cache
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_Intermediate_C_Part1\Exercise Files\Command_WK\obj\Debug\Command_WK.csproj.CoreCompileInputs.cache
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_Intermediate_C_Part1\Exercise Files\Command_WK\obj\Debug\Command_WK.exe
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_Intermediate_C_Part1\Exercise Files\Command_WK\obj\Debug\Command_WK.pdb

@@ -1,0 +1,29 @@
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Finish\Facade\bin\Debug\netcoreapp1.1\Facade.deps.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Finish\Facade\bin\Debug\netcoreapp1.1\Facade.runtimeconfig.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Finish\Facade\bin\Debug\netcoreapp1.1\Facade.runtimeconfig.dev.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Finish\Facade\bin\Debug\netcoreapp1.1\Facade.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Finish\Facade\bin\Debug\netcoreapp1.1\Facade.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Finish\Facade\obj\Debug\netcoreapp1.1\Facade.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Finish\Facade\obj\Debug\netcoreapp1.1\Facade.AssemblyInfo.cs
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Finish\Facade\obj\Debug\netcoreapp1.1\Facade.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Finish\Facade\obj\Debug\netcoreapp1.1\Facade.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\Facade\bin\Debug\netcoreapp1.1\Facade.deps.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\Facade\bin\Debug\netcoreapp1.1\Facade.runtimeconfig.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\Facade\bin\Debug\netcoreapp1.1\Facade.runtimeconfig.dev.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\Facade\bin\Debug\netcoreapp1.1\Facade.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\Facade\bin\Debug\netcoreapp1.1\Facade.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\Facade\obj\Debug\netcoreapp1.1\Facade.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\Facade\obj\Debug\netcoreapp1.1\Facade.AssemblyInfo.cs
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\Facade\obj\Debug\netcoreapp1.1\Facade.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\Facade\obj\Debug\netcoreapp1.1\Facade.pdb
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Design Patterns C\Ex_Files_Intermediate_C_Design_Pt_2\Exercise Files\Ch07\07_02\Begin\Facade\bin\Debug\netcoreapp1.1\Facade.deps.json
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Design Patterns C\Ex_Files_Intermediate_C_Design_Pt_2\Exercise Files\Ch07\07_02\Begin\Facade\bin\Debug\netcoreapp1.1\Facade.runtimeconfig.json
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Design Patterns C\Ex_Files_Intermediate_C_Design_Pt_2\Exercise Files\Ch07\07_02\Begin\Facade\bin\Debug\netcoreapp1.1\Facade.runtimeconfig.dev.json
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Design Patterns C\Ex_Files_Intermediate_C_Design_Pt_2\Exercise Files\Ch07\07_02\Begin\Facade\bin\Debug\netcoreapp1.1\Facade.dll
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Design Patterns C\Ex_Files_Intermediate_C_Design_Pt_2\Exercise Files\Ch07\07_02\Begin\Facade\bin\Debug\netcoreapp1.1\Facade.pdb
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Design Patterns C\Ex_Files_Intermediate_C_Design_Pt_2\Exercise Files\Ch07\07_02\Begin\Facade\obj\Debug\netcoreapp1.1\Facade.csprojAssemblyReference.cache
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Design Patterns C\Ex_Files_Intermediate_C_Design_Pt_2\Exercise Files\Ch07\07_02\Begin\Facade\obj\Debug\netcoreapp1.1\Facade.csproj.CoreCompileInputs.cache
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Design Patterns C\Ex_Files_Intermediate_C_Design_Pt_2\Exercise Files\Ch07\07_02\Begin\Facade\obj\Debug\netcoreapp1.1\Facade.AssemblyInfoInputs.cache
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Design Patterns C\Ex_Files_Intermediate_C_Design_Pt_2\Exercise Files\Ch07\07_02\Begin\Facade\obj\Debug\netcoreapp1.1\Facade.AssemblyInfo.cs
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Design Patterns C\Ex_Files_Intermediate_C_Design_Pt_2\Exercise Files\Ch07\07_02\Begin\Facade\obj\Debug\netcoreapp1.1\Facade.dll
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Design Patterns C\Ex_Files_Intermediate_C_Design_Pt_2\Exercise Files\Ch07\07_02\Begin\Facade\obj\Debug\netcoreapp1.1\Facade.pdb

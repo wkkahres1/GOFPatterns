@@ -1,0 +1,6 @@
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Bridge_WK\bin\Debug\Bridge_WK.exe.config
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Bridge_WK\bin\Debug\Bridge_WK.exe
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Bridge_WK\bin\Debug\Bridge_WK.pdb
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Bridge_WK\obj\Debug\Bridge_WK.csproj.CoreCompileInputs.cache
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Bridge_WK\obj\Debug\Bridge_WK.exe
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Bridge_WK\obj\Debug\Bridge_WK.pdb

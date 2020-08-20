@@ -1,0 +1,7 @@
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_Intermediate_C_Part1\Exercise Files\Ch02\Builder_WK\Builder_WK\bin\Debug\Builder_WK.exe.config
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_Intermediate_C_Part1\Exercise Files\Ch02\Builder_WK\Builder_WK\bin\Debug\Builder_WK.exe
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_Intermediate_C_Part1\Exercise Files\Ch02\Builder_WK\Builder_WK\bin\Debug\Builder_WK.pdb
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_Intermediate_C_Part1\Exercise Files\Ch02\Builder_WK\Builder_WK\obj\Debug\Builder_WK.csprojAssemblyReference.cache
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_Intermediate_C_Part1\Exercise Files\Ch02\Builder_WK\Builder_WK\obj\Debug\Builder_WK.csproj.CoreCompileInputs.cache
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_Intermediate_C_Part1\Exercise Files\Ch02\Builder_WK\Builder_WK\obj\Debug\Builder_WK.exe
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_Intermediate_C_Part1\Exercise Files\Ch02\Builder_WK\Builder_WK\obj\Debug\Builder_WK.pdb

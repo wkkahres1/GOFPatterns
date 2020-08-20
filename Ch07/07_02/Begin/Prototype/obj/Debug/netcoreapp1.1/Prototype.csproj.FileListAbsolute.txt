@@ -1,0 +1,51 @@
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Begin\Prototype\bin\Debug\netcoreapp1.1\Prototype.deps.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Begin\Prototype\bin\Debug\netcoreapp1.1\Prototype.runtimeconfig.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Begin\Prototype\bin\Debug\netcoreapp1.1\Prototype.runtimeconfig.dev.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Begin\Prototype\bin\Debug\netcoreapp1.1\Prototype.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Begin\Prototype\bin\Debug\netcoreapp1.1\Prototype.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Begin\Prototype\obj\Debug\netcoreapp1.1\Prototype.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Begin\Prototype\obj\Debug\netcoreapp1.1\Prototype.AssemblyInfo.cs
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Begin\Prototype\obj\Debug\netcoreapp1.1\Prototype.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Begin\Prototype\obj\Debug\netcoreapp1.1\Prototype.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_03\Finish\Prototype\bin\Debug\netcoreapp1.1\Prototype.deps.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_03\Finish\Prototype\bin\Debug\netcoreapp1.1\Prototype.runtimeconfig.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_03\Finish\Prototype\bin\Debug\netcoreapp1.1\Prototype.runtimeconfig.dev.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_03\Finish\Prototype\bin\Debug\netcoreapp1.1\Prototype.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_03\Finish\Prototype\bin\Debug\netcoreapp1.1\Prototype.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_03\Finish\Prototype\obj\Debug\netcoreapp1.1\Prototype.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_03\Finish\Prototype\obj\Debug\netcoreapp1.1\Prototype.AssemblyInfo.cs
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_03\Finish\Prototype\obj\Debug\netcoreapp1.1\Prototype.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_03\Finish\Prototype\obj\Debug\netcoreapp1.1\Prototype.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Finish\Prototype\bin\Debug\netcoreapp1.1\Prototype.deps.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Finish\Prototype\bin\Debug\netcoreapp1.1\Prototype.runtimeconfig.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Finish\Prototype\bin\Debug\netcoreapp1.1\Prototype.runtimeconfig.dev.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Finish\Prototype\bin\Debug\netcoreapp1.1\Prototype.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Finish\Prototype\bin\Debug\netcoreapp1.1\Prototype.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Finish\Prototype\obj\Debug\netcoreapp1.1\Prototype.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Finish\Prototype\obj\Debug\netcoreapp1.1\Prototype.AssemblyInfo.cs
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Finish\Prototype\obj\Debug\netcoreapp1.1\Prototype.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Finish\Prototype\obj\Debug\netcoreapp1.1\Prototype.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\Prototype\bin\Debug\netcoreapp1.1\Prototype.deps.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\Prototype\bin\Debug\netcoreapp1.1\Prototype.runtimeconfig.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\Prototype\bin\Debug\netcoreapp1.1\Prototype.runtimeconfig.dev.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\Prototype\bin\Debug\netcoreapp1.1\Prototype.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\Prototype\bin\Debug\netcoreapp1.1\Prototype.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\Prototype\obj\Debug\netcoreapp1.1\Prototype.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\Prototype\obj\Debug\netcoreapp1.1\Prototype.AssemblyInfo.cs
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\Prototype\obj\Debug\netcoreapp1.1\Prototype.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\Prototype\obj\Debug\netcoreapp1.1\Prototype.pdb
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Design Patterns C\Ex_Files_Intermediate_C_Design_Pt_2\Exercise Files\Ch07\07_02\Begin\Prototype\obj\Debug\netcoreapp1.1\Prototype.csprojAssemblyReference.cache
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Design Patterns C\Ex_Files_Intermediate_C_Design_Pt_2\Exercise Files\Ch07\07_02\Begin\Prototype\obj\Debug\netcoreapp1.1\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Design Patterns C\Ex_Files_Intermediate_C_Design_Pt_2\Exercise Files\Ch07\07_02\Begin\Prototype\obj\Debug\netcoreapp1.1\Prototype.dll
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Design Patterns C\Ex_Files_Intermediate_C_Design_Pt_2\Exercise Files\Ch07\07_02\Begin\Prototype\obj\Debug\netcoreapp1.1\Prototype.pdb
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ch07\07_02\Begin\Prototype\bin\Debug\netcoreapp1.1\Prototype.deps.json
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ch07\07_02\Begin\Prototype\bin\Debug\netcoreapp1.1\Prototype.runtimeconfig.json
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ch07\07_02\Begin\Prototype\bin\Debug\netcoreapp1.1\Prototype.runtimeconfig.dev.json
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ch07\07_02\Begin\Prototype\bin\Debug\netcoreapp1.1\Prototype.dll
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ch07\07_02\Begin\Prototype\bin\Debug\netcoreapp1.1\Prototype.pdb
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ch07\07_02\Begin\Prototype\obj\Debug\netcoreapp1.1\Prototype.csprojAssemblyReference.cache
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ch07\07_02\Begin\Prototype\obj\Debug\netcoreapp1.1\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ch07\07_02\Begin\Prototype\obj\Debug\netcoreapp1.1\Prototype.AssemblyInfoInputs.cache
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ch07\07_02\Begin\Prototype\obj\Debug\netcoreapp1.1\Prototype.AssemblyInfo.cs
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ch07\07_02\Begin\Prototype\obj\Debug\netcoreapp1.1\Prototype.dll
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ch07\07_02\Begin\Prototype\obj\Debug\netcoreapp1.1\Prototype.pdb

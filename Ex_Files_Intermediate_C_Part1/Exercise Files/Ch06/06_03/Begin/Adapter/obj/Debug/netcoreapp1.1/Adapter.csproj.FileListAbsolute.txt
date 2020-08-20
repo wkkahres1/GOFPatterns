@@ -1,0 +1,46 @@
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch02\02_03\Begin\Adapter\bin\Debug\netcoreapp1.1\Adapter.deps.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch02\02_03\Begin\Adapter\bin\Debug\netcoreapp1.1\Adapter.runtimeconfig.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch02\02_03\Begin\Adapter\bin\Debug\netcoreapp1.1\Adapter.runtimeconfig.dev.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch02\02_03\Begin\Adapter\bin\Debug\netcoreapp1.1\Adapter.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch02\02_03\Begin\Adapter\bin\Debug\netcoreapp1.1\Adapter.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch02\02_03\Begin\Adapter\obj\Debug\netcoreapp1.1\Adapter.AssemblyInfo.cs
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch02\02_03\Begin\Adapter\obj\Debug\netcoreapp1.1\Adapter.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch02\02_03\Begin\Adapter\obj\Debug\netcoreapp1.1\Adapter.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch02\02_03\Finish\Adapter\bin\Debug\netcoreapp1.1\Adapter.deps.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch02\02_03\Finish\Adapter\bin\Debug\netcoreapp1.1\Adapter.runtimeconfig.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch02\02_03\Finish\Adapter\bin\Debug\netcoreapp1.1\Adapter.runtimeconfig.dev.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch02\02_03\Finish\Adapter\bin\Debug\netcoreapp1.1\Adapter.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch02\02_03\Finish\Adapter\bin\Debug\netcoreapp1.1\Adapter.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch02\02_03\Finish\Adapter\obj\Debug\netcoreapp1.1\Adapter.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch02\02_03\Finish\Adapter\obj\Debug\netcoreapp1.1\Adapter.AssemblyInfo.cs
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch02\02_03\Finish\Adapter\obj\Debug\netcoreapp1.1\Adapter.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch02\02_03\Finish\Adapter\obj\Debug\netcoreapp1.1\Adapter.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_02\Begin\Adapter\bin\Debug\netcoreapp1.1\Adapter.deps.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_02\Begin\Adapter\bin\Debug\netcoreapp1.1\Adapter.runtimeconfig.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_02\Begin\Adapter\bin\Debug\netcoreapp1.1\Adapter.runtimeconfig.dev.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_02\Begin\Adapter\bin\Debug\netcoreapp1.1\Adapter.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_02\Begin\Adapter\bin\Debug\netcoreapp1.1\Adapter.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_02\Begin\Adapter\obj\Debug\netcoreapp1.1\Adapter.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_02\Begin\Adapter\obj\Debug\netcoreapp1.1\Adapter.AssemblyInfo.cs
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_02\Begin\Adapter\obj\Debug\netcoreapp1.1\Adapter.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_02\Begin\Adapter\obj\Debug\netcoreapp1.1\Adapter.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_03\Finish\Adapter\bin\Debug\netcoreapp1.1\Adapter.deps.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_03\Finish\Adapter\bin\Debug\netcoreapp1.1\Adapter.runtimeconfig.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_03\Finish\Adapter\bin\Debug\netcoreapp1.1\Adapter.runtimeconfig.dev.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_03\Finish\Adapter\bin\Debug\netcoreapp1.1\Adapter.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_03\Finish\Adapter\bin\Debug\netcoreapp1.1\Adapter.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_03\Finish\Adapter\obj\Debug\netcoreapp1.1\Adapter.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_03\Finish\Adapter\obj\Debug\netcoreapp1.1\Adapter.AssemblyInfo.cs
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_03\Finish\Adapter\obj\Debug\netcoreapp1.1\Adapter.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_03\Finish\Adapter\obj\Debug\netcoreapp1.1\Adapter.pdb
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_Intermediate_C_Part1\Exercise Files\Ch06\06_03\Begin\Adapter\bin\Debug\netcoreapp1.1\Adapter.deps.json
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_Intermediate_C_Part1\Exercise Files\Ch06\06_03\Begin\Adapter\bin\Debug\netcoreapp1.1\Adapter.runtimeconfig.json
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_Intermediate_C_Part1\Exercise Files\Ch06\06_03\Begin\Adapter\bin\Debug\netcoreapp1.1\Adapter.runtimeconfig.dev.json
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_Intermediate_C_Part1\Exercise Files\Ch06\06_03\Begin\Adapter\bin\Debug\netcoreapp1.1\Adapter.dll
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_Intermediate_C_Part1\Exercise Files\Ch06\06_03\Begin\Adapter\bin\Debug\netcoreapp1.1\Adapter.pdb
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_Intermediate_C_Part1\Exercise Files\Ch06\06_03\Begin\Adapter\obj\Debug\netcoreapp1.1\Adapter.csprojAssemblyReference.cache
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_Intermediate_C_Part1\Exercise Files\Ch06\06_03\Begin\Adapter\obj\Debug\netcoreapp1.1\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_Intermediate_C_Part1\Exercise Files\Ch06\06_03\Begin\Adapter\obj\Debug\netcoreapp1.1\Adapter.AssemblyInfoInputs.cache
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_Intermediate_C_Part1\Exercise Files\Ch06\06_03\Begin\Adapter\obj\Debug\netcoreapp1.1\Adapter.AssemblyInfo.cs
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_Intermediate_C_Part1\Exercise Files\Ch06\06_03\Begin\Adapter\obj\Debug\netcoreapp1.1\Adapter.dll
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Ex_Files_Intermediate_C_Part1\Exercise Files\Ch06\06_03\Begin\Adapter\obj\Debug\netcoreapp1.1\Adapter.pdb

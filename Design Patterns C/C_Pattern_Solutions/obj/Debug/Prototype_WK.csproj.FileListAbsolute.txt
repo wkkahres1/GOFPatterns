@@ -1,0 +1,6 @@
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Design Patterns C\C_Pattern_Solutions\bin\Debug\C_Pattern_Solutions.exe.config
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Design Patterns C\C_Pattern_Solutions\bin\Debug\C_Pattern_Solutions.exe
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Design Patterns C\C_Pattern_Solutions\bin\Debug\C_Pattern_Solutions.pdb
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Design Patterns C\C_Pattern_Solutions\obj\Debug\Prototype_WK.csproj.CoreCompileInputs.cache
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Design Patterns C\C_Pattern_Solutions\obj\Debug\C_Pattern_Solutions.exe
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Design Patterns C\C_Pattern_Solutions\obj\Debug\C_Pattern_Solutions.pdb

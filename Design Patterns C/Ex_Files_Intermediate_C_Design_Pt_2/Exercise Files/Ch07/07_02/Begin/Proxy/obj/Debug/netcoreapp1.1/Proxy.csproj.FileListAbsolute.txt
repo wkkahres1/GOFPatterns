@@ -1,0 +1,29 @@
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch06\06_03\Finish\Proxy\bin\Debug\netcoreapp1.1\Proxy.deps.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch06\06_03\Finish\Proxy\bin\Debug\netcoreapp1.1\Proxy.runtimeconfig.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch06\06_03\Finish\Proxy\bin\Debug\netcoreapp1.1\Proxy.runtimeconfig.dev.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch06\06_03\Finish\Proxy\bin\Debug\netcoreapp1.1\Proxy.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch06\06_03\Finish\Proxy\bin\Debug\netcoreapp1.1\Proxy.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch06\06_03\Finish\Proxy\obj\Debug\netcoreapp1.1\Proxy.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch06\06_03\Finish\Proxy\obj\Debug\netcoreapp1.1\Proxy.AssemblyInfo.cs
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch06\06_03\Finish\Proxy\obj\Debug\netcoreapp1.1\Proxy.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch06\06_03\Finish\Proxy\obj\Debug\netcoreapp1.1\Proxy.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\Proxy\bin\Debug\netcoreapp1.1\Proxy.deps.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\Proxy\bin\Debug\netcoreapp1.1\Proxy.runtimeconfig.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\Proxy\bin\Debug\netcoreapp1.1\Proxy.runtimeconfig.dev.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\Proxy\bin\Debug\netcoreapp1.1\Proxy.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\Proxy\bin\Debug\netcoreapp1.1\Proxy.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\Proxy\obj\Debug\netcoreapp1.1\Proxy.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\Proxy\obj\Debug\netcoreapp1.1\Proxy.AssemblyInfo.cs
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\Proxy\obj\Debug\netcoreapp1.1\Proxy.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\Proxy\obj\Debug\netcoreapp1.1\Proxy.pdb
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Design Patterns C\Ex_Files_Intermediate_C_Design_Pt_2\Exercise Files\Ch07\07_02\Begin\Proxy\bin\Debug\netcoreapp1.1\Proxy.deps.json
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Design Patterns C\Ex_Files_Intermediate_C_Design_Pt_2\Exercise Files\Ch07\07_02\Begin\Proxy\bin\Debug\netcoreapp1.1\Proxy.runtimeconfig.json
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Design Patterns C\Ex_Files_Intermediate_C_Design_Pt_2\Exercise Files\Ch07\07_02\Begin\Proxy\bin\Debug\netcoreapp1.1\Proxy.runtimeconfig.dev.json
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Design Patterns C\Ex_Files_Intermediate_C_Design_Pt_2\Exercise Files\Ch07\07_02\Begin\Proxy\bin\Debug\netcoreapp1.1\Proxy.dll
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Design Patterns C\Ex_Files_Intermediate_C_Design_Pt_2\Exercise Files\Ch07\07_02\Begin\Proxy\bin\Debug\netcoreapp1.1\Proxy.pdb
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Design Patterns C\Ex_Files_Intermediate_C_Design_Pt_2\Exercise Files\Ch07\07_02\Begin\Proxy\obj\Debug\netcoreapp1.1\Proxy.csprojAssemblyReference.cache
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Design Patterns C\Ex_Files_Intermediate_C_Design_Pt_2\Exercise Files\Ch07\07_02\Begin\Proxy\obj\Debug\netcoreapp1.1\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Design Patterns C\Ex_Files_Intermediate_C_Design_Pt_2\Exercise Files\Ch07\07_02\Begin\Proxy\obj\Debug\netcoreapp1.1\Proxy.AssemblyInfoInputs.cache
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Design Patterns C\Ex_Files_Intermediate_C_Design_Pt_2\Exercise Files\Ch07\07_02\Begin\Proxy\obj\Debug\netcoreapp1.1\Proxy.AssemblyInfo.cs
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Design Patterns C\Ex_Files_Intermediate_C_Design_Pt_2\Exercise Files\Ch07\07_02\Begin\Proxy\obj\Debug\netcoreapp1.1\Proxy.dll
+C:\Users\wkkah\OneDrive\Walter\Programming Training\C#\Programs\Design Pattern\Design Patterns C\Ex_Files_Intermediate_C_Design_Pt_2\Exercise Files\Ch07\07_02\Begin\Proxy\obj\Debug\netcoreapp1.1\Proxy.pdb
