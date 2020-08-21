@@ -3,11 +3,11 @@ This repo contains C# examples of all 23 Gang of Four Design Patterns.
 
 This information is also found in 'Pattern Example Locations in this Folder.rtf'
 
-Notes on Patterns Locations within folder - Design Patterns
-The coding examples are located in various places in this folder.  This file will explain where they are located and how to access what you need.
+<strong>Notes on Patterns Locations within folder - Design Patterns</strong>
+<p>The coding examples are located in various places in this folder.  This file will explain where they are located and how to access what you need. </p>
 
-Apologies for the confusion as these were taken from Linked in Learning tutorials and everything got kind of mixed up.  
-If a file has multiple solutions, right click on the one you need and click Set as Startup Project.
+<p>Apologies for the confusion as these were taken from Linked in Learning tutorials and everything got kind of mixed up.  
+If a file has multiple solutions, right click on the one you need and click Set as Startup Project.</p>
 
 <h2><strong>Creational Patterns</strong> - </h2>
 <p><strong>A3 - Abstract Factory</strong> - Ex_Files_CSharp_Design_Patterns\Ch03\03-02\DesignPattern.sln</p>
